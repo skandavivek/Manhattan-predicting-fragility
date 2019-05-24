@@ -1,6 +1,4 @@
 # Manhattan-predicting-fragility
-Prediction of speeds in Manhattan, and fragility of transportation network to collisions
-How fragile and how predictable are city transportation networks?
 
 Motivation: With internet connected vehicles on the rise, new problems arise such as large-scale hacks/ software malfunction. It is essential to predict potential impacts of a large-scale hack on city traffic. There are multiple scenarios where the impacts of hacks on traffic are similar to collisions. Hence, I use collisions as a proxy for hacks in order to use real collision data to figure out potential consequences of hacks.
 
