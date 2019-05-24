@@ -1,6 +1,6 @@
 # Manhattan-predicting-fragility
 
-Motivation: With internet connected vehicles on the rise, new problems arise such as large-scale hacks/ software malfunction. It is essential to predict potential impacts of a large-scale hack on city traffic. There are multiple scenarios where the impacts of hacks on traffic are similar to collisions. Hence, I use collisions as a proxy for hacks in order to use real collision data to figure out potential consequences of hacks.
+With internet connected vehicles on the rise, new problems arise such as large-scale hacks/ software malfunction. It is essential to predict potential impacts of a large-scale hack on city traffic. There are multiple scenarios where the impacts of hacks on traffic are similar to collisions. Hence, I use collisions as a proxy for hacks in order to use real collision data to figure out potential consequences of hacks.
 
 I use data from NYC DOT traffic speeds (https://data.cityofnewyork.us/Transportation/DOT-Traffic-Speeds-NBE/i4gi-tjb9) containing over 24 Million speeds, as well as NOT DOT collision data (https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95) which is a comprehensive record of collisions  (over 1.4 Million collisions ) across a span of 5 years. The data is obtained from the Socrata API using SoQL queries, for year 2018.
 
