@@ -8,11 +8,11 @@ I use data from NYC DOT traffic speeds (https://data.cityofnewyork.us/Transporta
 
 I find that speed is higly correlated with collision rate indicating that potentially just a few collisions can greatly hamper traffic speed. However, one caution in interpreting these results is 'causation' vs 'correlation'. There could be underlying factors as to why collision rate is so correlated with traffic speeds.
 
+Finally, I developed a Random Forest Model to predict speeds based on: location of detector, time of day, day of week and collision rate, with correlation coefficient ~ 0.8.
 
 To visualize the Folium leaflet maps, open the visualization notebook in nbviewer:
 https://nbviewer.jupyter.org/github/skandavivek/Manhattan-predicting-fragility/blob/master/Visualization.ipynb
 
 
-I developed a Random Forest Model to predict speeds based on: location of detector, time of day, day of week and collision rate, with correlation coefficient ~ 0.8.
 
 
