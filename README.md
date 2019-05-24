@@ -8,7 +8,7 @@ I find that speed is higly correlated with collision rate indicating that potent
 
 Finally, I developed a Random Forest Model to predict speeds based on: location of detector, time of day, day of week and collision rate, with correlation coefficient ~ 0.8.
 
-To visualize the Folium leaflet maps, open the visualization notebook in nbviewer:
+To visualize Collisions grouped by hour in Folium leaflet maps, open the visualization notebook in nbviewer:
 https://nbviewer.jupyter.org/github/skandavivek/Manhattan-predicting-fragility/blob/master/Visualization.ipynb
 
 
